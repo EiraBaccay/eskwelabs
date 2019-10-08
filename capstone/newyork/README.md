@@ -1,1 +1,3 @@
-1. Download the files:
+1. Download the csv files:
+  - nyweather.csv
+  - watershed-water-quality-data.csv
